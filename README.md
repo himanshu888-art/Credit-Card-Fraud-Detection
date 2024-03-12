@@ -10,6 +10,9 @@ This project addresses this challenge by leveraging the power of machine learnin
 **Key Functionalities**
 
 Machine Learning Algorithms: Explore and experiment with various supervised learning algorithms often employed in fraud detection, such as:
+
+**note**: you can apply different machine learning models to check which algoithms is best suitable, so here I use logistics but you can try below algorithms too. 
+
 Logistic Regression: A linear model effective for binary classification tasks.
 Support Vector Machines (SVMs): Efficiently categorize data points, offering strong performance with high-dimensional features.
 Random Forests: Ensemble models that combine multiple decision trees for improved accuracy and generalization.
